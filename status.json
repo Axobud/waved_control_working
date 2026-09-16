@@ -1,3 +1,14 @@
 {
-  "enabled": true
+  "all": true,
+  "admin": true,
+  "passwords": {
+    "WAVEDGUEST12": true,
+    "WAVEDGUEST27": true,
+    "WAVEDGUEST34": true,
+    "WAVEDGUEST41": true,
+    "WAVEDGUEST58": true,
+    "WAVEDGUEST63": true,
+    "WAVEDGUEST76": true,
+    "WAVEDGUEST89": true
+  }
 }
